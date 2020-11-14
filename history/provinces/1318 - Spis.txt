@@ -1,17 +1,17 @@
-#1318 - Spiš
+#1318 - SpiÂš
 
 owner = SLO
 controller = SLO
 culture = slovak
 religion = catholic
-capital = "Spiš"
+capital = "SpiÂš"
 trade_goods = copper
 hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-estate = estate_nobles
+add_core = HUN
 add_core = SLO
 discovered_by = western
 discovered_by = eastern

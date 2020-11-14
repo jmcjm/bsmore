@@ -7,9 +7,9 @@ religion = orthodox
 capital = "Plovdiv"
 trade_goods = grain
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
+base_tax = 3 
+base_production = 3
+base_manpower = 3
 is_city = yes
 add_core = BUL
 
@@ -22,10 +22,9 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 
+
 1447.1.1 = { owner = TUR controller = TUR add_core = TUR } # Annexed to Ottomans
 1447.1.2 = { unrest = 7 } # Oppositions around Tarnovo
-1404.1.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
-1413.1.1 = { revolt = {} controller = BUL }
 1555.1.1 = { unrest = 5 } # General discontent against the Janissaries' dominance
 1556.1.1 = { unrest = 2 }
 1598.1.1 = { unrest = 6 } # Oppositions around Tarnovo
