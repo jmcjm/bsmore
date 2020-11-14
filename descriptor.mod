@@ -1,12 +1,9 @@
-name="Better slavs: Free SLO, TRA, BUL (addon 1.2)"
+version="1.30.*"
 tags={
-	"New Nations"
 	"Alternative History"
-	"Expansion"
 	"Gameplay"
-	"Historical"
-	"Missions And Decisions"
-	"Fixes"
 }
-supported_version="1.29.*"
-archive="C:/Users/kotoa/Documents/Paradox Interactive/Europa Universalis IV/mod/betterslavsfree.zip"
+name="Better slavs: Free SLO, TRA, BUL (addon 1.2)"
+supported_version="1.30.4"
+path="/home/jmc/.local/share/Steam/steamapps/workshop/content/236850/bsmore"
+remote_file_id="bsmore"
